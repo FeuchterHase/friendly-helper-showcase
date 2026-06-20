@@ -91,3 +91,7 @@ Die Webseite ergaenzt den Bot um Detailseiten, Tabellen und erklaerende Inhalte.
 Webplattform:
 
 https://friendly-helpers.de
+
+Befehlskatalog:
+
+https://friendly-helpers.de/#bot-befehle

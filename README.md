@@ -12,6 +12,10 @@ Der Bot verbindet Discord-Slash-Commands mit der Webplattform [friendly-helpers.
 
 > Dieses Repository ist ein oeffentliches Showcase-Repository. Die produktive Codebasis, interne Infrastruktur und Betriebsdaten sind nicht Teil dieses Repositories.
 
+**Bot einladen:** [Friendly-Helper zu Discord hinzufuegen](https://discord.com/oauth2/authorize?client_id=1385677746847486157&permissions=2952915984&integration_type=0&scope=bot+applications.commands)  
+**Community-Discord:** [discord.gg/AEFeDbAEwt](https://discord.gg/AEFeDbAEwt)  
+**Befehlskatalog:** [friendly-helpers.de/#bot-befehle](https://friendly-helpers.de/#bot-befehle)
+
 ## Was Friendly-Helper macht
 
 Friendly-Helper stellt WoWS-Daten dort bereit, wo Communitys sie brauchen:
@@ -29,14 +33,14 @@ Friendly-Helper stellt WoWS-Daten dort bereit, wo Communitys sie brauchen:
 
 | Command | Zweck |
 | --- | --- |
-| `/info` | Zeigt Schiffsdaten und wichtige technische Werte |
-| `/vergleich` | Vergleicht zwei Schiffe direkt im Discord |
-| `/schiffstats` | Zeigt die Werte eines Spielers auf einem Schiff |
-| `/spielerduell` | Vergleicht zwei Spieler in einem Modus |
-| `/rekorde` | Zeigt persoenliche Spielerrekorde |
-| `/clanrang` | Zeigt die Position eines Spielers innerhalb eines Clans |
-| `/leaderboard` | Erstellt Clan-Leaderboards nach verschiedenen Werten |
-| `/serverstats` | Verwaltet automatische Server-Stats-Channels |
+| [`/info <Schiff>`](https://friendly-helpers.de/#bot-befehle) | Zeigt kompakte Schiffsdaten mit Link zur Schiff-Detailseite |
+| [`/vergleich <Schiff1> <Schiff2>`](https://friendly-helpers.de/#bot-befehle) | Vergleicht zwei Schiffe inklusive Webauswertung |
+| [`/schiffstats <Spieler> <Schiff>`](https://friendly-helpers.de/#bot-befehle) | Zeigt die Werte eines Spielers auf genau einem Schiff |
+| [`/spielerduell <Spieler1> <Spieler2> <Modus>`](https://friendly-helpers.de/#bot-befehle) | Vergleicht zwei Spieler in einem Statistikmodus |
+| [`/rekorde <Spieler>`](https://friendly-helpers.de/#bot-befehle) | Zeigt persoenliche Spielerrekorde |
+| [`/clanrang <Clan> <Spieler> [Min. Gefechte]`](https://friendly-helpers.de/#bot-befehle) | Zeigt die Position eines Spielers innerhalb eines Clans |
+| [`/serverstats status | aktivieren | deaktivieren | feature | kategorie`](https://friendly-helpers.de/#bot-befehle) | Verwaltet automatische Server-Stats-Channels |
+| [`/notifications setup [erstellen]`](https://friendly-helpers.de/#bot-befehle) | Prueft oder erstellt Notification-Kanaele |
 
 Eine ausfuehrlichere Uebersicht steht in [docs/commands.md](docs/commands.md).
 
@@ -54,6 +58,10 @@ Friendly-Helper ist nicht nur ein Discord-Bot. Viele Ausgaben verweisen auf pass
 Webplattform:
 
 **https://friendly-helpers.de**
+
+Vollstaendiger Bot-Befehlskatalog:
+
+**https://friendly-helpers.de/#bot-befehle**
 
 ## Screenshots
 
@@ -107,11 +115,10 @@ Mehr Details: [docs/roadmap.md](docs/roadmap.md)
 
 ## Invite und Kontakt
 
-Einladungslink und Kontaktinformationen werden hier ergaenzt, sobald sie oeffentlich genutzt werden sollen.
-
-Bis dahin:
-
+- Bot einladen: [Friendly-Helper zu Discord hinzufuegen](https://discord.com/oauth2/authorize?client_id=1385677746847486157&permissions=2952915984&integration_type=0&scope=bot+applications.commands)
+- Community-Discord: [discord.gg/AEFeDbAEwt](https://discord.gg/AEFeDbAEwt)
 - Webseite: [friendly-helpers.de](https://friendly-helpers.de)
+- Befehle: [friendly-helpers.de/#bot-befehle](https://friendly-helpers.de/#bot-befehle)
 - Projektstatus: aktive Entwicklung
 
 ## Dokumentation
