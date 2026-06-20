@@ -1,6 +1,6 @@
 # Commands
 
-Diese Datei zeigt beispielhaft, welche Art von Slash-Commands Friendly-Helpers bereitstellt.
+Diese Datei zeigt beispielhaft, welche Art von Slash-Commands Friendly-Helper bereitstellt.
 
 Die konkrete Command-Struktur kann sich waehrend der aktiven Entwicklung aendern.
 
@@ -68,4 +68,3 @@ Viele Commands verlinken auf passende Seiten von:
 https://friendly-helpers.de
 
 So bleibt Discord kompakt, waehrend Detaildaten in der Webansicht verfuegbar sind.
-

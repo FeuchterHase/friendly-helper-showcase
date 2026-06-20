@@ -1,6 +1,6 @@
 # Features
 
-Friendly-Helpers richtet sich an deutschsprachige World-of-Warships-Clans, Communitys und Spieler, die relevante Spiel- und Communitydaten direkt in Discord nutzen moechten.
+Friendly-Helper richtet sich an deutschsprachige World-of-Warships-Clans, Communitys und Spieler, die relevante Spiel- und Communitydaten direkt in Discord nutzen moechten.
 
 ## Spielerprofile
 
@@ -19,7 +19,7 @@ Typische Inhalte:
 
 ## Schiffsdaten
 
-Friendly-Helpers bietet Schiffsinformationen fuer viele typische Fragen im Discord-Alltag.
+Friendly-Helper bietet Schiffsinformationen fuer viele typische Fragen im Discord-Alltag.
 
 Beispiele:
 
@@ -44,7 +44,7 @@ Unterstuetzt werden unter anderem:
 
 ## Clan-Funktionen
 
-Friendly-Helpers unterstuetzt Clan- und Communityarbeit direkt im Discord.
+Friendly-Helper unterstuetzt Clan- und Communityarbeit direkt im Discord.
 
 Beispiele:
 
@@ -91,4 +91,3 @@ Die Webseite ergaenzt den Bot um Detailseiten, Tabellen und erklaerende Inhalte.
 Webplattform:
 
 https://friendly-helpers.de
-

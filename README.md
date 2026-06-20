@@ -1,4 +1,4 @@
-# Friendly-Helpers Discord-Bot
+# Friendly-Helper Discord-Bot
 
 ![Status](https://img.shields.io/badge/status-aktive%20Entwicklung-c5a059)
 ![Sprache](https://img.shields.io/badge/sprache-Deutsch-1f6feb)
@@ -6,15 +6,15 @@
 ![Spiel](https://img.shields.io/badge/game-World%20of%20Warships-0b7285)
 ![Repository](https://img.shields.io/badge/repository-Showcase-lightgrey)
 
-**Friendly-Helpers** ist ein deutschsprachiger World-of-Warships Discord-Bot fuer Clans, Communitys und Spieler.
+**Friendly-Helper** ist ein deutschsprachiger World-of-Warships Discord-Bot fuer Clans, Communitys und Spieler.
 
 Der Bot verbindet Discord-Slash-Commands mit der Webplattform [friendly-helpers.de](https://friendly-helpers.de). Im Fokus stehen Spielerprofile, Schiffsinfos, Clan-Stats, Rankings, Vergleiche und Server-Stats.
 
 > Dieses Repository ist ein oeffentliches Showcase-Repository. Die produktive Codebasis, interne Infrastruktur und Betriebsdaten sind nicht Teil dieses Repositories.
 
-## Was Friendly-Helpers macht
+## Was Friendly-Helper macht
 
-Friendly-Helpers stellt WoWS-Daten dort bereit, wo Communitys sie brauchen:
+Friendly-Helper stellt WoWS-Daten dort bereit, wo Communitys sie brauchen:
 
 | Bereich | Beschreibung |
 | --- | --- |
@@ -42,7 +42,7 @@ Eine ausfuehrlichere Uebersicht steht in [docs/commands.md](docs/commands.md).
 
 ## Webintegration
 
-Friendly-Helpers ist nicht nur ein Discord-Bot. Viele Ausgaben verweisen auf passende Webseiten:
+Friendly-Helper ist nicht nur ein Discord-Bot. Viele Ausgaben verweisen auf passende Webseiten:
 
 - Spielerprofile
 - Schiffseiten
@@ -70,7 +70,7 @@ Platzhalter:
 
 ## Datenschutzfreundlicher Ansatz
 
-Friendly-Helpers ist auf sparsame Datennutzung ausgelegt:
+Friendly-Helper ist auf sparsame Datennutzung ausgelegt:
 
 - keine Veroeffentlichung privater Bot-Tokens
 - keine oeffentlichen Datenbank-Dumps
@@ -121,4 +121,3 @@ Bis dahin:
 - [Datenschutz](docs/privacy.md)
 - [Roadmap](docs/roadmap.md)
 - [Changelog](docs/changelog.md)
-

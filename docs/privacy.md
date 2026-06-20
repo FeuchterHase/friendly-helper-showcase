@@ -15,7 +15,7 @@ Es enthaelt nicht:
 
 ## Daten im Bot-Kontext
 
-Friendly-Helpers arbeitet mit oeffentlich bzw. ueber Spiel-APIs verfuegbaren World-of-Warships-Daten und Discord-Serverinformationen, soweit diese fuer aktivierte Funktionen notwendig sind.
+Friendly-Helper arbeitet mit oeffentlich bzw. ueber Spiel-APIs verfuegbaren World-of-Warships-Daten und Discord-Serverinformationen, soweit diese fuer aktivierte Funktionen notwendig sind.
 
 Beispiele:
 
@@ -46,4 +46,3 @@ Wenn ein Spielerprofil im Spiel privat ist, soll diese Einstellung respektiert w
 Das Ziel dieses Repositories ist Transparenz ueber den Funktionsumfang, nicht die Offenlegung der produktiven Infrastruktur.
 
 Die eigentliche Codebasis bleibt privat.
-
